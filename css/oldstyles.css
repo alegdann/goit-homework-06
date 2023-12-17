@@ -214,6 +214,7 @@ input {
     text-align: center;
     max-width: 496px;
     margin: 0 auto 48px;
+    height: 160px;
 }
 
 .btn-hero {
